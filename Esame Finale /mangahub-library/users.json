@@ -1,0 +1,91 @@
+{
+  "users" : [ {
+    "username" : "User",
+    "password" : "$2a$12$dK2Hzs2LDPfyHfRO3Sci1e7ybYJo4h7gwRJrraQk2LJpGl.SDDHry",
+    "role" : "READER"
+  }, {
+    "username" : "Admin",
+    "password" : "$2a$12$bvH6TgGbIBaUBhliHhWFcOWHPcG49PatpgDbPe/R0OJgrorgZtp5i",
+    "role" : "ADMIN"
+  }, {
+    "username" : "testUser1748599182238",
+    "password" : "$2a$10$cuKa3e/WQdDn9gPcV7pf2.wLwSk30Hg5bCfhYx7YbgH5GJwtoA5SO",
+    "role" : "READER"
+  }, {
+    "username" : "newTestUser1748599182554",
+    "password" : "$2a$10$WMqYk2ujujUf9QG/ZYZlb.OHJpoEjKOLUpn8dT33F2Y.RiFoNmQry",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1748599328096",
+    "password" : "$2a$10$OobBtKnqYvcwiUDYp1155.8yXs2oHOEQPDSedCg6AuTRt1zIqE00m",
+    "role" : "READER"
+  }, {
+    "username" : "newTestUser1748599328403",
+    "password" : "$2a$10$UE4DogH4spndE8BmJbpXA.HcnMJ4uujNeufIgTuq1HidOmv8rC.Py",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1748600416625",
+    "password" : "$2a$12$UOf8UqkqKQH6JwOG3h2yZOb3CjqZ94jEsz5YUNCkn7iv4a8iyyt2W",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1748600417707",
+    "password" : "$2a$12$bZzAKoDsI1VMuZY2KNfmmOEH95iGdLW.MpDN8ExsjUPgHYQ1pMkaS",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1748602941894",
+    "password" : "$2a$12$dAWL0EWen2CyuG3tk/u1a.17jL77TsyFBKjyBhUbwwbGO6OfY0CPu",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1748602942864",
+    "password" : "$2a$12$5V19zDxNG0BjM/yfkklmYemEGW67JYl0JD4JFiFhn63a3njWrJvMy",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1748603401265",
+    "password" : "$2a$12$i8UpC8Cg.cjcf.ny4GUCZel9PQN.gzTrLK9vkyJcgBswfMGU3S7hy",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1748603402275",
+    "password" : "$2a$12$xxxkBmcjGdLYnTTZNfImh.bG/5IT085ybB4gwoGVwZ84qdFw9COtS",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1749302795652",
+    "password" : "$2a$12$WKvS9w.2eEraXnyHUb1uYuNv97AD7sdCWa/t/EOHAIuSwvHdJl1cO",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1749302796667",
+    "password" : "$2a$12$eNOD9G2oBLkRowVnAgFF4eHLg23OpkVtavEXUOrenu4.7ixYsISsa",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1749303772364",
+    "password" : "$2a$12$wiiEN7b8WDnVAizKV3J/m.kavw1XyKnu1YmAHIFINpK5zgpELNUfe",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1749303773997",
+    "password" : "$2a$12$tqyWut6AfWdnwNuto6VKvu/6jbvaynkSsoltBzrKKCbZHcTco.2AW",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1749303777502",
+    "password" : "$2a$12$Pj6nUDYrJiutvFAxtiqFROhiaGbzP6bkhBSO/3dS6QtPHU03Ptw8.",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1749303778526",
+    "password" : "$2a$12$1iKB.X.pjpxds9.u6Xjv5uPBoQiuqhMUG/CHak/Qwzln3t6QvknF6",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1749490500094",
+    "password" : "$2a$12$V.g4i1NcKASrx2iU/e.DWeb5EOkQD/4qyxzlLarD.hcuHxbgX.0y6",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1749490501331",
+    "password" : "$2a$12$9y1.xAbW3AyQTbXQbSMKeutXxzOE/8fPO8bwaDSFwkUZy4D8Whdgy",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1749490503477",
+    "password" : "$2a$12$V73t.dznr4Ux4Up.FTxbN.qv31vm/niL4lVvZ0Ckpm58JvtRjv8w.",
+    "role" : "READER"
+  }, {
+    "username" : "testUser1749490504488",
+    "password" : "$2a$12$YCzMsSqjIdrqZozTp3/qx.LSpesZipT6bMM2MT09/GgMLFl3TiajW",
+    "role" : "READER"
+  } ]
+}

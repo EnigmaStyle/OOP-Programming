@@ -1,0 +1,11 @@
+{
+  "users" : [ {
+    "username" : "User",
+    "password" : "$2a$12$l9GqnMZhS9iaiBiEpAMRJe90EaULm5UHfTMegPWtPMQvr6s15JDBC",
+    "role" : "READER"
+  }, {
+    "username" : "Admin",
+    "password" : "$2a$12$eao85sOCfJSs9muAk/xNF.ouXcZK/Q3yPomUktl8GZASGK2cpfQfG",
+    "role" : "ADMIN"
+  } ]
+}
