@@ -92,8 +92,10 @@ Per generare il report di copertura dei test:
 ```bash
 mvn jacoco:report
 ```
-Per eseguire il programma
+Per eseguire il programma:
+```bash
 mvn exec:java -Dexec.mainClass="com.mangahub.MangaHubApplication"  
+```
 
 ## 📝 Funzionalità Utente
 
