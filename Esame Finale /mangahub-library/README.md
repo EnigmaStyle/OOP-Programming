@@ -38,7 +38,7 @@ MangaHub Library è un'applicazione Java per la gestione di una libreria digital
 
 1. Clona il repository:
 ```bash
-git clone [url-repository]
+git clone https://github.com/EnigmaStyle/OOP-Programming.git
 ```
 
 2. Naviga nella directory del progetto:
