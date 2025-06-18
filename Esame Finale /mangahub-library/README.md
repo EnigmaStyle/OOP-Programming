@@ -55,7 +55,7 @@ mvn clean install
 
 Per avviare l'applicazione, esegui:
 ```bash
-mvn exec:java
+mvn exec:java -Dexec.mainClass="com.mangahub.MangaHubApplication"
 ```
 
 ## 📁 Struttura del Progetto
